@@ -1,7 +1,5 @@
 Eventalic1::Application.routes.draw do
-  devise_for :users
-
-	 root :to => 'Pages#home'
+	 root :to => 'Pages#Home'
 	 get'About'=> 'Pages#About'
   
 

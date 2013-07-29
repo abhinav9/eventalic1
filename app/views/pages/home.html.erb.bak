@@ -1,0 +1,7 @@
+<h1>Best Place to Find Venue for your Event</h1>
+<p>
+<%= link_to "Signup",new_user_registrations_path, class: "btn btn-primary btn-large" %>
+</p>
+<h2>Organizing  event has become easier </h2>
+<p>We show listings from the top Venues.All at no cost to you , we have them all here</p>
+
